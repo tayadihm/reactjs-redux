@@ -1,0 +1,74 @@
+{
+    "merk" : [
+        {
+            "id": 1,
+            "nama": "indomie goreng",
+            "jenis": "makanan",
+            "tgl_register": "2-12-1998",
+            "kode_merk": "f00d"
+          },
+          {
+            "id": 2,
+            "nama": "frisyen flag",
+            "jenis": "minuman",
+            "tgl_register": "1-12-1998",
+            "kode_merk": "dr1nk"
+          },
+          {
+            "id": 3,
+            "nama": "geprek ruben",
+            "jenis": "makanan",
+            "tgl_register": "2-11-1998",
+            "kode_merk": "f00d"
+          },
+          {
+            "id": 4,
+            "nama": "roti bakar",
+            "jenis": "makanan",
+            "tgl_register": "2-07-1998",
+            "kode_merk": "f00d"
+          },
+          {
+            "id": 5,
+            "nama": "es pisang kuning",
+            "jenis": "minuman",
+            "tgl_register": "3-12-1998",
+            "kode_merk": "dr1nk"
+          },
+          {
+            "id": 6,
+            "nama": "kiko",
+            "jenis": "minuman",
+            "tgl_register": "2-09-1998",
+            "kode_merk": "dr1nk"
+          },
+          {
+            "id": 7,
+            "nama": "ayam strong",
+            "jenis": "makanan",
+            "tgl_register": "2-12-1998",
+            "kode_merk": "f00d"
+          },
+          {
+            "id": 8,
+            "nama": "sabana",
+            "jenis": "makanan",
+            "tgl_register": "4-4-1998",
+            "kode_merk": "f00d"
+          },
+          {
+            "id": 9,
+            "nama": "mae thai tea",
+            "jenis": "minuman",
+            "tgl_register": "19-10-1998",
+            "kode_merk": "dr1nk"
+          },
+          {
+           "id": 10,
+            "nama": "Haus",
+            "jenis": "minuman",
+            "tgl_register": "20-10-1998",
+            "kode_merk": "dr1nk"
+          }
+    ]
+}

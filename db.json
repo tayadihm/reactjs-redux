@@ -5,70 +5,70 @@
             "nama": "indomie goreng",
             "jenis": "makanan",
             "tgl_register": "2-12-1998",
-            "kode_merk": "f00d"
+            "kode_merk": "food"
           },
           {
             "id": 2,
             "nama": "frisyen flag",
             "jenis": "minuman",
             "tgl_register": "1-12-1998",
-            "kode_merk": "dr1nk"
+            "kode_merk": "drink"
           },
           {
             "id": 3,
             "nama": "geprek ruben",
             "jenis": "makanan",
             "tgl_register": "2-11-1998",
-            "kode_merk": "f00d"
+            "kode_merk": "food"
           },
           {
             "id": 4,
             "nama": "roti bakar",
             "jenis": "makanan",
             "tgl_register": "2-07-1998",
-            "kode_merk": "f00d"
+            "kode_merk": "food"
           },
           {
             "id": 5,
             "nama": "es pisang kuning",
             "jenis": "minuman",
             "tgl_register": "3-12-1998",
-            "kode_merk": "dr1nk"
+            "kode_merk": "drink"
           },
           {
             "id": 6,
-            "nama": "kiko",
-            "jenis": "minuman",
+            "nama": "suprim",
+            "jenis": "pakaian",
             "tgl_register": "2-09-1998",
-            "kode_merk": "dr1nk"
+            "kode_merk": "outfit"
           },
           {
             "id": 7,
             "nama": "ayam strong",
             "jenis": "makanan",
             "tgl_register": "2-12-1998",
-            "kode_merk": "f00d"
+            "kode_merk": "food"
           },
           {
             "id": 8,
             "nama": "sabana",
             "jenis": "makanan",
             "tgl_register": "4-4-1998",
-            "kode_merk": "f00d"
+            "kode_merk": "food"
           },
           {
             "id": 9,
             "nama": "mae thai tea",
             "jenis": "minuman",
             "tgl_register": "19-10-1998",
-            "kode_merk": "dr1nk"
+            "kode_merk": "drink"
           },
           {
            "id": 10,
             "nama": "Haus",
             "jenis": "minuman",
             "tgl_register": "20-10-1998",
-            "kode_merk": "dr1nk"
+            "kode_merk": "drink"
           }
     ]
 }
